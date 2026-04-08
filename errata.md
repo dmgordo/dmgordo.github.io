@@ -1,4 +1,4 @@
-# Errata: New Constructions for Coverings Designs
+<h1>Errata: New Constructions for Coverings Designs</h1>
 
 A few of the upper bounds given in our 1996 JCD paper seem to have come
 from a bug in one of our programs.  We weren't able to construct
