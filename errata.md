@@ -14,14 +14,14 @@ entries whose upper bound in the paper is unsubstantiated (these
 bounds are all 1 more than those given in the paper):
 
 - $C(14,7,3) = 15$
-- $C(27,14,3) <= 15$
-- $C(28,14,3) <= 15$
-- $C(29,15,3) <= 15$
-- $C(28,15,4) <= 31$
-- $C(29,15,4) <= 31$
-- $C(30,15,4) <= 31$
-- $C(23,16,5) <= 20$
-- $C(27,16,5) <= 51$
+- $C(27,14,3) \leq 15$
+- $C(28,14,3) \leq 15$
+- $C(29,15,3) \leq 15$
+- $C(28,15,4) \leq 31$
+- $C(29,15,4) \leq 31$
+- $C(30,15,4) \leq 31$
+- $C(23,16,5) \leq 20$
+- $C(27,16,5) \leq 51$
 
 Finally, the publisher mistakenly added two optimality stars to the
 page proofs: Neither the $(11,7,6)$ covering of size $84$ nor the $(14,5,3)$
