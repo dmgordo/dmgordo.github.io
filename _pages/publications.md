@@ -81,6 +81,8 @@ Pseudoprimes on elliptic curves. In *Proceedings of the 1987 Laval University In
 
 ## Miscellaneous
 
+[How to proceed in mathematics](https://www.ams.org/journals/notices/202105/rnoti-p748.pdf), with Skip Garibaldi. *AMS Notices* 68 (2021), 748–749.
+
 [On the density of the set of known Hadamard orders](https://doi.org/10.1007/s12095-010-0028-9), with Warwick de Launey. *Cryptography and Communications* 2 (2010), 233–246. [arXiv](https://arxiv.org/abs/1004.4872)
 
 [A comment on the Hadamard conjecture](https://doi.org/10.1006/jcta.2000.3155), with Warwick de Launey. *Journal of Combinatorial Theory, Series A* 95 (2001), 180–184.
